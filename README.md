@@ -1,2 +1,2 @@
 # calculator-ract-
-calculator using react
+calculator using react Sample
